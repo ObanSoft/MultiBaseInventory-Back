@@ -1,0 +1,23 @@
+# node modules
+node_modules/
+
+# entorno
+.env
+
+# lock file
+package-lock.json
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# sistema operativo
+.DS_Store
+Thumbs.db
+
+# editor / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
